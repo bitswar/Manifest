@@ -1,0 +1,1 @@
+# `Bitswar` Manifest

@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1aplha1
 kind: Location
 metadata:
-  name:  ${MAIN_NAME}
-  description: ${MAIN_DESCRIPTION}
+  name: bitswar-manifest-entry
+  description: Bitswar manifest entry location
 spec:
   targets:
-    - ./apis.yaml
+    - ./infrastructure/systems.yaml

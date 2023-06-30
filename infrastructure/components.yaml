@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bitswar-manifest-docs
+  title: Bitswar Manifest
+  annotations:
+    backstage.io/techdocs-ref: dir:../
+spec:
+  type: documentation
+  lifecycle: production
+  owner:
+  system: bitswar
+  providesApis: []

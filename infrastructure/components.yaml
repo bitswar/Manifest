@@ -9,5 +9,5 @@ spec:
   type: documentation
   lifecycle: production
   owner:
-  system: bitswar
+  system: Bitswar
   providesApis: []

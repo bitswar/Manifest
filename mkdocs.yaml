@@ -1,4 +1,4 @@
-site_name: 'Example documentation'
+site_name: "Bitswar Manifest"
 nav:
   - Home: index.md
 plugins:

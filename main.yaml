@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1aplha1
 kind: Location
 metadata:
-  name: bitswar-manifest-entry
+  name: bitswar-manifest
   description: Bitswar manifest entry location
 spec:
   targets:
